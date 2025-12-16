@@ -1,0 +1,6 @@
+agent_id,call_duration,csat_score,fcr
+A01,420,4,Yes
+A02,380,5,Yes
+A03,510,3,No
+A01,460,4,Yes
+A02,400,5,Yes
