@@ -19,5 +19,4 @@ Average Handle Time (AHT), and First Call Resolution (FCR).
 
 ## Outcome
 Provided data-driven recommendations to improve support efficiency
-and customer experience.# customer-support-performance-analysis
-Customer Support KPI Analysis using Excel, SQL, and Power BI
+and customer experience.
